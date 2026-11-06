@@ -1,16 +1,11 @@
 # Synaptic — Intelligent Repository Exploration
 
-<p align="center">
-  <strong>Understand unfamiliar codebases. Find relevant code. Explore how everything connects.</strong>
-  <br />
-  An evidence-grounded code intelligence platform for exploring complex software repositories.
-</p>
+##Difference from existing solutions 
+RepoMind-Existing Solution 
+<img width="1896" height="901" alt="image" src="https://github.com/user-attachments/assets/221b01b3-8396-4e6f-962b-02a38f268761" />
 
-<p align="center">
-  ![Hackathon](https://img.shields.io/badge/Project-Hackathon-blueviolet)
-  ![Domain](https://img.shields.io/badge/Domain-Developer%20Tools-black)
-  ![Focus](https://img.shields.io/badge/Focus-Code%20Intelligence-blue)
-</p>
+Our solution->
+<img width="1562" height="748" alt="image" src="https://github.com/user-attachments/assets/ea4b06fe-bd9c-452f-8c52-2f2bc323f1fe" />
 
 ---
 
