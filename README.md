@@ -1,14 +1,5 @@
 # Synaptic — Intelligent Repository Exploration
 
-##Difference from existing solutions 
-RepoMind-Existing Solution 
-<img width="1896" height="901" alt="image" src="https://github.com/user-attachments/assets/221b01b3-8396-4e6f-962b-02a38f268761" />
-
-Our solution->
-<img width="1562" height="748" alt="image" src="https://github.com/user-attachments/assets/ea4b06fe-bd9c-452f-8c52-2f2bc323f1fe" />
-
----
-
 ## 1. Problem Statement
 
 ### Official Problem Statement
